@@ -7,6 +7,10 @@ Este repositório implementa uma análise estatística computacional aplicada ao
 ### Tópicos abordados
 * Estudo de histogramas
 * Ajuste de Distribuição Normal
+* Distribuição Binomial 
 * Teorema do Limite Central (TLC)
 * Inferências Estatísticas - Desvio Padrão Populacional, Erro Padrão da Média e P-value
-* Distribuição Binomial 
+
+### Estrutura do projeto
+* Parte 1 - Z_score_e_Binomial_Distribution.ipynb
+* Parte 2 - Sample_distribution_tcl_pvalue.ipynb
